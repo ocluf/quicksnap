@@ -26,3 +26,4 @@ package-lock.json
 
 out/
 electron/build
+.env
