@@ -1,5 +1,11 @@
 # Quicksnap
 
+
+
+https://github.com/ocluf/quicksnap/assets/74682764/8708009a-75f4-49c8-93f8-e7a7c78b95d8
+
+
+
 ## 🚀 Description
 
 A tool to quickly take a screenshot of a specific window. I only build and tested it for macOS, but since it an electron app it might work for windows as well. If you are a windows user I would love to know any tweaks I need to make to make it fully cross platform.
